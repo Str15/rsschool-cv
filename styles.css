@@ -48,6 +48,7 @@ body {
   text-decoration: none;
   padding: 30px;
   line-height: 50px;
+  color: black;
 }
 
 .nav-link:hover {
@@ -85,6 +86,10 @@ footer {
   max-width: 1440px;
   margin: 0 auto;
   min-height: 50px;
+}
+
+.gth {
+  text-decoration: none;
 }
 
 .footer-container {
